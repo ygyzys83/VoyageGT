@@ -1,0 +1,11 @@
+langchain-core
+langchain-community
+langchain-ollama
+langchain-groq
+langchain-google-genai
+langchain-nvidia-ai-endpoints
+langchain-tavily
+langgraph
+tavily-python
+streamlit
+python-dotenv

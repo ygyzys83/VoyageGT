@@ -107,7 +107,7 @@ flowchart TD
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/voyagegt.git
+   git clone https://github.com/ygyzys83/voyagegt.git
    cd voyagegt
 ```
 

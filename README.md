@@ -138,8 +138,8 @@ flowchart TD
 
    # Cloud only — mix and match freely
    AGENT_MODEL  = "gemini"      # runs research + draft
-   CRITIC_MODEL = "gemini"    # runs critique
-   FINAL_MODEL  = "kimi"      # writes final itinerary
+   CRITIC_MODEL = "kimi"    # runs critique
+   FINAL_MODEL  = "gemini"      # writes final itinerary
 ```
 
 5. **Run the app**
